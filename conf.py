@@ -21,7 +21,6 @@ extensions = [
     'sphinx.ext.intersphinx',
     "sphinx_design",
     "sphinxext.opengraph",
-
 ]
 
 # "sphinxext.rediraffe",
