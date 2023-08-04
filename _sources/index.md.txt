@@ -1,10 +1,9 @@
-# Page Title
+# Welcome peeps
 
-A short introduction for the top of your main page
+Woohoo My first website!! 
 
 
-More content you want on your page
-
+I'm a student at URI majoring in Data Science
 
 
 <!-- use this to make a menu when you add more pages -->
